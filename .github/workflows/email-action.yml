@@ -1,0 +1,10 @@
+name: EmailAction
+
+on: [push]
+
+jobs:
+  test:
+    steps:
+      - name: 23f2003711@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
+      
